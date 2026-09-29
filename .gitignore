@@ -1,0 +1,12 @@
+.local/
+__pycache__/
+*.pyc
+*.lock
+.profile-*.tmp
+.env
+.env.*
+*.pem
+*.key
+validation-deps/
+
+*.zip

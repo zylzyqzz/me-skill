@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "revision": 0,
+  "updated_at": "1970-01-01T00:00:00+00:00",
+  "records": [],
+  "history": [],
+  "last_change": {
+    "operation": "seed",
+    "ids": [],
+    "reason": "Unconfigured empty template; no personal profile"
+  }
+}

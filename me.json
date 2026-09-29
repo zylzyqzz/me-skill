@@ -1,0 +1,22 @@
+{
+  "name": "me-skill",
+  "version": "1.0.0",
+  "repository": null,
+  "display_name": null,
+  "timezone": null,
+  "base_branch": "main",
+  "visibility": "private",
+  "review_model": "owner-reviewed-pr-only",
+  "schedules": {
+    "weekly_review": {
+      "day": "Monday",
+      "time": "09:00"
+    },
+    "automatic_update": {
+      "day": "Friday",
+      "time": "09:00"
+    }
+  },
+  "collection": "on-trigger-only",
+  "update_source": "personal-repository-main"
+}

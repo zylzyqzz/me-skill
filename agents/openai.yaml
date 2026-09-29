@@ -1,0 +1,6 @@
+interface:
+  display_name: "Me Skill · 我的分身"
+  short_description: "从空白建立自己的全局画像，周一复盘提案，周五同步审核后的个人版本"
+  default_prompt: "使用 $me-skill 为我完成个人分身初始化，接入用户级全局画像并配置周一复盘和周五自动更新。"
+policy:
+  allow_implicit_invocation: true
